@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neurophysics on All About Helin Henstridge</title>
+    <link>http://localhost:1313/tags/neurophysics/</link>
+    <description>Recent content in Neurophysics on All About Helin Henstridge</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/neurophysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h1 id=&#34;undergraduate-research&#34;&gt;Undergraduate Research&lt;/h1&gt;&#xA;&lt;h2 id=&#34;neurophysics---dr-william-kristan-ucsd&#34;&gt;Neurophysics - Dr. William Kristan, UCSD&lt;/h2&gt;&#xA;&lt;p&gt;I designed and executed my own research experiment to measure phototaxis of planarians temporally and spatially, including how their replication affects their phototaxis. I did this by creating varying light gradients for planarians; establishing a system of computers, computer programs, a handheld projector, camera, and microscope; utilizing microscopy techniques to record the planarians movement and analyze their phototaxis after experimentation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;materials-physics---dr-olivia-graeve-ucsd&#34;&gt;Materials Physics - Dr. Olivia Graeve, UCSD&lt;/h2&gt;&#xA;&lt;p&gt;I collaborated in writing a literature review about optical, magnetic, and electrical properties of ceramic metal oxides by reading, summarizing and articulating to peers and supervisors the relevant conclusions and topics of relevant papers. I also worked on the creation of a database of properties of carbide materials for aerospace purposes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
